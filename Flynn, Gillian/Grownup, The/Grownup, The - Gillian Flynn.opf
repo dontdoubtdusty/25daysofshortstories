@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa86d9db-fbf8-4184-b004-0ca0bc282d3e</dc:identifier>
+        <dc:title>The Grownup</dc:title>
+        <dc:creator opf:file-as="Flynn, Gillian" opf:role="aut">Gillian Flynn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Gillian Flynn’s Edgar Award-winning homage to the classic ghost story, published for the first time as a standalone&lt;/strong&gt; &lt;/p&gt;&lt;p&gt;A canny young woman is struggling to survive by perpetrating various levels of mostly harmless fraud. On a rainy April morning, she is reading auras at Spiritual Palms when Susan Burke walks in. A keen observer of human behavior, our unnamed narrator immediately diagnoses beautiful, rich Susan as an unhappy woman eager to give her lovely life a drama injection. However, when the "psychic" visits the eerie Victorian home that has been the source of Susan’s terror and grief, she realizes she may not have to pretend to believe in ghosts anymore. Miles, Susan’s teenage stepson, doesn’t help matters with his disturbing manner and grisly imagination. The three are soon locked in a chilling battle to discover where the evil truly lurks and what, if anything, can be done to escape it. &lt;/p&gt;&lt;p&gt;“The Grownup,” which originally appeared as “What Do You Do?” in George R. R. Martin’s &lt;em&gt;Rogues&lt;/em&gt; anthology, proves once again that Gillian Flynn is one of the world’s most original and skilled voices in fiction. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Crown</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780804188975</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0138OACAW</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0138OACAW</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literature &amp; Fiction</dc:subject>
+        <dc:subject>Short Stories &amp; Anthologies</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <dc:subject>Mystery; Thriller &amp; Suspense</dc:subject>
+        <dc:subject>Thrillers &amp; Suspense</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>90 Minutes (44-64 Pages)</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Thrillers</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-06T11:35:11+00:00"/>
+        <meta name="calibre:title_sort" content="Grownup, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Grownup, The - Gillian Flynn.jpg"/>
+    </guide>
+</package>

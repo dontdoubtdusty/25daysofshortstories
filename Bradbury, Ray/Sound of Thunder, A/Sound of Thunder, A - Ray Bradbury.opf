@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d24f456f-bf63-4072-8481-5e5370b9c318</dc:identifier>
+        <dc:title>A Sound of Thunder</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1951-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The short story, A Sound of Thunder, involves a Time Travel Safari where rich businessmen pay to travel back to prehistoric times and hunt real live dinosaurs.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062242075</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">DfkUY6PyKAUC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Sea Stories</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Hard Science Fiction</dc:subject>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>Collections &amp; Anthologies</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Time Travel</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Anthologies (Multiple Authors)</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Occult &amp; Supernatural</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-08T17:48:43.416466+00:00"/>
+        <meta name="calibre:title_sort" content="Sound of Thunder, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Sound of Thunder, A - Ray Bradbury.jpg"/>
+    </guide>
+</package>

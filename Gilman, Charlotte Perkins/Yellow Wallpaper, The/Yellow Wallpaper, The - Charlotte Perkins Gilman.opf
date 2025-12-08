@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29fb97ce-4d2b-4b9a-8ec0-4a23df22b91c</dc:identifier>
+        <dc:title>The Yellow Wallpaper</dc:title>
+        <dc:creator opf:file-as="Gilman, Charlotte Perkins" opf:role="aut">Charlotte Perkins Gilman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1892-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Edited with a new introduction by Aimee McLaughlin "The Yellow Wallpaper" by American writer Charlotte Perkins Gilman, first published in January 1892, is regarded as an important early work of American feminist literature for its illustration of the attitudes towards mental and physical health of women in the 19th century. What happens when a woman is pushed too far? Is she able to express her thoughts and feelings, or is she forced towards the expectation of behaving 'normally' again soon? A woman travels with her husband to an old colonial mansion after a nervous breakdown triggered by the birth of their child. Confined to the nursery and allowed only to breathe fresh air, eat well and rest in line with a regimented 'cure', she slowly begins to unravel at the seams. Her only distraction is writing in secret – that, and the woman she begins to see trapped inside the yellow wallpaper of the room itself. Isolated and breaking apart, she sets herself a task: to free the woman, and to become one with her temporary confinement. Charlotte Perkins-Gilman's 'The Yellow Wallpaper' presents a harrowing, disturbing account of mental stress, confinement and female turmoil - within which the only available solace can be found inside four peeling, sickly yellow walls ... Our new edition also features the sequence of poems "Woman" by Charlotte Perkins Gilman. "The gothic genre offers Gilman an effective mode of diagnosing contemporary culture whilst in tandem expressing her ensuing fears and anxieties. Gilman within this novella, gothicises the domestic setting, inverting the pillars of domesticity: family, security and understanding, in turn unveiling the dangers lurking behind the familiarity of gender roles within marital relations. The intimate first-person narration of the narrative serves to enhance Gilman's exposure of the oppressive forces of a male-dominated society, as she deplores her protagonist's inferior position in her domestic arrangement. The female narrator is encumbered by masculine superiority, undoubtedly dwelling in the middle of patriarchy. Embedded within her characterisation is the subjugated role bestowed upon Victorian women. Gilman projects derangement onto a familiar literary figure ― the middle−class wife and mother ― placing the source of this madness in the inviolate sphere for dutiful women ― the home. &lt;/p&gt;
+&lt;p&gt;" from the new introduction to The Yellow Wallpaper by Aimee McLaughlin&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Leamington Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781914090356</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">ssyvEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>World Literature</dc:subject>
+        <dc:subject>Finland</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Feminism &amp; Feminist Theory</dc:subject>
+        <dc:subject>https://www.globalgreyebooks.com/yellow-wallpaper-ebook.html</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-08T03:29:02.225101+00:00"/>
+        <meta name="calibre:title_sort" content="Yellow Wallpaper, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Yellow Wallpaper, The - Charlotte Perkins Gilman.jpg"/>
+    </guide>
+</package>

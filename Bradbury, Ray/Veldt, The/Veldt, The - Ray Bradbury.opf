@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8c89b2e-4c26-4a43-b5c6-25ddf20c54b8</dc:identifier>
+        <dc:title>The Veldt</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1972-12-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Creative Education's short story collections are ideal introductions to some of the world's best-known authors. the short, timeless classics of Jack London, Rudyard Kipling, Ray Bradbury, and others are celebrated in these handsome volumes.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Dramatic Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781583420287</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9YP_awFRqToC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-03T03:20:00+00:00"/>
+        <meta name="calibre:title_sort" content="Veldt, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Veldt, The - Ray Bradbury.jpg"/>
+    </guide>
+</package>

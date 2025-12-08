@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9982fb99-ff94-437e-9fa8-6bb0707e6644</dc:identifier>
+        <dc:title>The Jaunt</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"&lt;strong&gt;The Jaunt&lt;/strong&gt;" is a &lt;a href="https://en.wikipedia.org/wiki/Horror_fiction"&gt;&lt;span style="color: #6cb4ee"&gt;horror&lt;/span&gt;&lt;/a&gt; &lt;a href="https://en.wikipedia.org/wiki/Short_story"&gt;&lt;span style="color: #6cb4ee"&gt;short story&lt;/span&gt;&lt;/a&gt; by &lt;a href="https://en.wikipedia.org/wiki/Stephen_King"&gt;&lt;span style="color: #6cb4ee"&gt;Stephen King&lt;/span&gt;&lt;/a&gt; first published in &lt;a href="https://en.wikipedia.org/wiki/The_Twilight_Zone_Magazine"&gt;&lt;em style="color: #6cb4ee"&gt;The Twilight Zone Magazine&lt;/em&gt;&lt;/a&gt; in 1981, and collected in King's 1985 collection &lt;a href="https://en.wikipedia.org/wiki/Skeleton_Crew_(short_story_collection)"&gt;&lt;em style="color: #6cb4ee"&gt;Skeleton Crew&lt;/em&gt;&lt;/a&gt;.&lt;a name="cite_ref-Beahm_1998_p._1-0"&gt;&lt;/a&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Jaunt#cite_note-Beahm_1998_p.-1"&gt;&lt;sup style="color: #6cb4ee"&gt;[&lt;/sup&gt;&lt;sup style="color: #6cb4ee"&gt;1]&lt;/sup&gt;&lt;/a&gt; The story takes place early in the 24th century, when the technology for &lt;a href="https://en.wikipedia.org/wiki/Teleportation"&gt;&lt;span style="color: #6cb4ee"&gt;teleportation&lt;/span&gt;&lt;/a&gt;, referred to as "Jaunting", is commonplace, allowing for nearly instantaneous transportation across enormous distances, even to other planets in the &lt;a href="https://en.wikipedia.org/wiki/Solar_System"&gt;&lt;span style="color: #6cb4ee"&gt;Solar System&lt;/span&gt;&lt;/a&gt;. But the process is very specific, and has dire consequences if it goes wrong. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>PONS</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783125615557</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">s1WoQnvApKMC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-12-08T03:15:38.674459+00:00"/>
+        <meta name="calibre:title_sort" content="Jaunt, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Jaunt, The - Stephen King.jpg"/>
+    </guide>
+</package>

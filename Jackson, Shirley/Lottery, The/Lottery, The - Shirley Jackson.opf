@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8a13d91-84d2-4e76-a86d-c14bea68dfe3</dc:identifier>
+        <dc:title>The Lottery</dc:title>
+        <dc:creator opf:file-as="Jackson, Shirley" opf:role="aut">Shirley Jackson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1948-06-26T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Shirley Jackson's classic The Lottery portrays a small town that gathers to hold its yearly lottery, a barbaric game of chance. Each head of household draws a slip, and the family with the marked slip will lose a member to stoning by the townsfolk.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>The Creative Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781583415849</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">9sJ3GaAn0ToC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Juvenile Nonfiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary Criticism &amp; Collections</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-03T03:16:00+00:00"/>
+        <meta name="calibre:title_sort" content="Lottery, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Lottery, The - Shirley Jackson.jpg"/>
+    </guide>
+</package>

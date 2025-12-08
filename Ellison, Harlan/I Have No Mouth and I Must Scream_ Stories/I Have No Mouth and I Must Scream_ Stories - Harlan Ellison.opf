@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af1953a3-648f-4051-8c38-d439d713868e</dc:identifier>
+        <dc:title>I Have No Mouth and I Must Scream: Stories</dc:title>
+        <dc:creator opf:file-as="Ellison, Harlan" opf:role="aut">Harlan Ellison</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1967-12-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In a post-apocalyptic world, four men and one woman are all that remain of the human race, brought to near extinction by an artificial intelligence. Programmed to wage war on behalf of its creators, the AI became self-aware and turned against humanity. The five survivors are prisoners, kept alive and subjected to brutal torture by the hateful and sadistic machine in an endless cycle of violence. This story and six more groundbreaking and inventive tales that probe the depths of mortal experience prove why Grand Master of Science Fiction Harlan Ellison has earned the many accolades to his credit and remains one of the most original voices in American literature.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pyramid Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780515035216</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QubfOwAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-12-08T03:23:20.198248+00:00"/>
+        <meta name="calibre:title_sort" content="I Have No Mouth and I Must Scream: Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="I Have No Mouth and I Must Scream_ Stories - Harlan Ellison.jpg"/>
+    </guide>
+</package>
