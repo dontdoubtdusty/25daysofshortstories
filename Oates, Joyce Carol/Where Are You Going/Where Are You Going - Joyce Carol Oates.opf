@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b787035-5725-44c6-8793-75438d596fcc</dc:identifier>
+        <dc:title>Where Are You Going</dc:title>
+        <dc:creator opf:file-as="Oates, Joyce Carol" opf:role="aut">Joyce Carol Oates</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1979-10-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Joyce Carol Oates's selected early stories. Oates has chosen twenty-seven of her early stories, many of them O. Henry Award and/or Best American Short Story selections, for this volume, the only collection of her early stories available.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780449307953</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QDOqzwEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Places</dc:subject>
+        <dc:subject>United States</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-09T11:43:40.931485+00:00"/>
+        <meta name="calibre:title_sort" content="Where Are You Going"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Where Are You Going - Joyce Carol Oates.jpg"/>
+    </guide>
+</package>
