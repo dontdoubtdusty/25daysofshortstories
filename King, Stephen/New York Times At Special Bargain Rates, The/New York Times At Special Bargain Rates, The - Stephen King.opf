@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55219469-d120-4993-8e49-a44c1cc49d50</dc:identifier>
+        <dc:title>The New York Times At Special Bargain Rates</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-10-01T05:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta name="calibre:timestamp" content="2025-12-10T11:57:48.187175+00:00"/>
+        <meta name="calibre:title_sort" content="New York Times At Special Bargain Rates, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="New York Times At Special Bargain Rates, The - Stephen King.jpg"/>
+    </guide>
+</package>
