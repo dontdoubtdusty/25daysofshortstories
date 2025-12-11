@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcc18e95-d8da-442f-85b2-a59fa089b452</dc:identifier>
+        <dc:title>Exhalation: Stories</dc:title>
+        <dc:creator opf:file-as="Chiang, Ted" opf:role="aut">Ted Chiang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-07T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;NATIONAL BESTSELLER • ONE OF THE NEW YORK TIMES BEST BOOKS OF THE YEAR • Nine stunningly original, provocative, and poignant stories—two published for the very first time—all from the mind of the incomparable author of Stories of Your Life and Others Tackling some of humanity’s oldest questions along with new quandaries only he could imagine, these stories will change the way you think, feel, and see the world. They are Ted Chiang at his best: profound, sympathetic, revelatory. Ted Chiang tackles some of humanity’s oldest questions along with new quandaries only he could imagine. &lt;/p&gt;
+&lt;p&gt;In “The Merchant and the Alchemist’s Gate,” a portal through time forces a fabric seller in ancient Baghdad to grapple with past mistakes and second chances. In “Exhalation,” an alien scientist makes a shocking discovery with ramifications that are literally universal. In “Anxiety Is the Dizziness of Freedom,” the ability to glimpse into alternate universes necessitates a radically new examination of the concepts of choice and free will.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781101947906</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">L61oDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Collections &amp; Anthologies</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-11T13:48:34.496024+00:00"/>
+        <meta name="calibre:title_sort" content="Exhalation: Stories"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Exhalation_ Stories - Ted Chiang.jpg"/>
+    </guide>
+</package>
