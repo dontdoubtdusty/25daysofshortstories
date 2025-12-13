@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54ac0cca-fbc8-4d5d-9dc1-98d62acc9f73</dc:identifier>
+        <dc:title>The Black Cat</dc:title>
+        <dc:creator opf:file-as="Poe, Edgar Allen" opf:role="aut">Edgar Allen Poe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-25T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"The Black Cat" is one of Edgar Allan Poe's most memorable stories. The tale centers around a black cat and the subsequent deterioration of a man. The story is often linked with "The Tell-Tale Heart" because of the profound psychological elements these two works share.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Independently Published</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781091559158</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Xf2pxgEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Gothic</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-12T23:56:42.343404+00:00"/>
+        <meta name="calibre:title_sort" content="Black Cat, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Black Cat, The - Edgar Allen Poe.jpg"/>
+    </guide>
+</package>
