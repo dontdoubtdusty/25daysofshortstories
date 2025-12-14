@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24666574-5b28-4cc5-b543-66b02abe4743</dc:identifier>
+        <dc:title>The Haunter of the Dark</dc:title>
+        <dc:creator opf:file-as="Lovecraft, Howard Phillips" opf:role="aut">Howard Phillips Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1936-12-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The story (which is based on the diaries of its protagonist) is set in Providence, Rhode Island, Lovecraft's hometown and a favourite locale for his fiction. The protagonist, Robert Blake - a young man with an interest in the occult (he is a writer of weird stories and a painter of fantastic paintings) - becomes fascinated by a large disused church set on Federal Hill in Providence's west - the Italian and migrant quarter - which he can see from his lodgings in Providence's Upper East side. His researches reveal that the church has a sinister history involving a cult called the Church of Starry Wisdom and is dreaded by the local inhabitants as being haunted by a primeval evil.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781548268480</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">o2AJtAEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-14T11:53:42.052479+00:00"/>
+        <meta name="calibre:title_sort" content="Haunter of the Dark, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Haunter of the Dark, The - Howard Phillips Lovecraft.jpg"/>
+    </guide>
+</package>
