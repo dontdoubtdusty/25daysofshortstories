@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">588b7d07-32ac-4c44-888a-3c1df3349740</dc:identifier>
+        <dc:title>The Body Snatcher and Other Tales</dc:title>
+        <dc:creator opf:file-as="Stevenson, Robert Louis" opf:role="aut">Robert Louis Stevenson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-17T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Renowned as the author of such popular adventure stories as "Kidnapped" and "Treasure Island, "Robert Louis Stevenson also wrote gripping tales of terror and the supernatural. Stevenson's considerable gifts as a teller of tales shine brightly in this choice collection of three of his best short stories. &lt;/p&gt;
+&lt;p&gt;The Gothic tale of "The Body Snatcher" concerns a young medical student's dealings with grave robbers who provide corpses to dissect and study a practice that takes on increasingly sinister dimensions. Swirling seas, dangerous reefs, and inhospitable islanders provide the grim backdrop for a tale of greed, lunacy, and unbridled fear in "The Merry Men," the name given by the inhabitants of Aros to the fearsome breakers that pound their tiny Scottish isle. "The Bottle Imp" an intricately told tale of love and adventure, avarice and envy, and good and evil centers on a magical bottle that provides its owner with all he desires, but at a great cost. &lt;/p&gt;
+&lt;p&gt;This exceptional collection of tales will thrill admirers of the author's craft as well as aficionados of classic horror stories. &lt;/p&gt;
+&lt;p&gt;Dover (2001) unabridged republication of three stories selected from standard editions. &lt;/p&gt;
+&lt;p&gt;"&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Courier Corporation</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780486419244</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">azDTDPM-PwAC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-15T19:50:43.047698+00:00"/>
+        <meta name="calibre:title_sort" content="Body Snatcher and Other Tales, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Body Snatcher and Other Tales, The - Robert Louis Stevenson.jpg"/>
+    </guide>
+</package>
