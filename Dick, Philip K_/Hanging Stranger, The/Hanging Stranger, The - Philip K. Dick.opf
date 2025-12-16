@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a749e6d-c98a-417f-87b9-111972789e9f</dc:identifier>
+        <dc:title>The Hanging Stranger</dc:title>
+        <dc:creator opf:file-as="Dick, Philip K." opf:role="aut">Philip K. Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1953-12-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;This early work by Philip K. Dick was originally published in 1953 and we are now republishing it with a brand new introductory biography. The Hanging Stranger is a short story about a man who finds a dead stranger hanging from a lamp post and begins to realise that his town is not what he thought it was. Philip Kindred Dick was born on December 16 1928, in Chicago, Illinois. Dick and his family moved to the Bay Area of San Francisco when he was young, and later on to Washington DC following his parents divorce. Dick attended Elementary school and then a Quaker school before the family moved back to California. It was around this time that Dick began to take an active interest in the science fiction genre, reading his first magazine Stirring Science Stories, at age twelve. Dick married five times between 1959 and 1973, and had three children. He sold his first story in 1951 and from that point on he wrote full-time, selling his first novel in 1955. In addition to 44 published novels, Dick wrote an estimated 121 short stories, most of which appeared in science fiction magazines during his lifetime. In addition to 44 published novels, Dick wrote an estimated 121 short stories, most of which appeared in science fiction magazines during his lifetime. After his death, many of his stories made the transition to the big screen, with blockbuster films such as Blade Runner, Total Recall and Minority Report being based on his works.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Read Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781473305755</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">fH0KnQEACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Hard Science Fiction</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-16T16:08:59.327864+00:00"/>
+        <meta name="calibre:title_sort" content="Hanging Stranger, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Hanging Stranger, The - Philip K. Dick.jpg"/>
+    </guide>
+</package>
