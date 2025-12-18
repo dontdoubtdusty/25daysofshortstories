@@ -1,26 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">dd39f2a9-85bd-4821-a464-1fad9d14d538</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9e85e34-0c16-4a29-84d1-7e9d4b7cb4e5</dc:identifier>
         <dc:title>Children of the Corn</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>1977-03-01T05:00:00+00:00</dc:date>
-        <dc:description>&lt;div&gt;
-&lt;p&gt;From the unrivaled master of horror and the supernatural, Stephen King •  “Children of the Corn,” first collected in the extraordinary collection Night Shift in 1973 and then adapted into a horror film franchise of the same name, is a terrifying and unforgettable classic of the genre. Driving through the cornfields in rural Nebraska, Burt and Vicky run over a young boy—only to discover that they may not be responsible for his death. Out in the corn, something is watching them, and help is nowhere to be found. &lt;/p&gt;
-&lt;p&gt;A Vintage Short.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781101974049</dc:identifier>
+        <dc:date>1977-01-01T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="font-family: 'Segoe UI';"&gt;A Vintage Shorts “Short Story Month” Selection&lt;br&gt;&lt;br&gt;Driving through the cornfields in rural Nebraska, Burt and Vicky run over a young boy—only to discover that they may not be responsible for his death. Out in the corn, something is watching them, and help is nowhere to be found.&lt;br&gt;&lt;br&gt;From the unrivaled master of horror and the supernatural, Stephen King. “Children of the Corn,” first collected in the extraordinary collection &lt;em&gt;Night Shift&lt;/em&gt; in 1973 and then adapted into a horror film franchise of the same name, is a terrifying and unforgettable classic of the genre. &lt;br&gt;&lt;br&gt;An eBook short.&lt;/p&gt;&lt;p style="font-family: 'Segoe UI';"&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vintage</dc:publisher>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/children-of-the-corn-stephen-king/1123624153</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">32947838</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01DRXF5C4</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01DRXF5C4</dc:identifier>
         <dc:identifier opf:scheme="GOOGLE">FFbgCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781101974049</dc:identifier>
+        <dc:identifier opf:scheme="FF">k/stephen-king/children-of-the-corn</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Fiction</dc:subject>
         <dc:subject>Horror</dc:subject>
-        <dc:subject>General</dc:subject>
-        <dc:subject>Thrillers</dc:subject>
-        <dc:subject>Suspense</dc:subject>
-        <dc:subject>Mystery &amp; Detective</dc:subject>
-        <meta name="calibre:timestamp" content="2025-12-17T22:08:37.267149+00:00"/>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2025-12-18T02:17:07.312434+00:00"/>
         <meta name="calibre:title_sort" content="Children of the Corn"/>
     </metadata>
     <guide>
