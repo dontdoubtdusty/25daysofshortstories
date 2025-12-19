@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aae23545-a369-4a7d-8bda-3460a539bb8a</dc:identifier>
+        <dc:title>The Tunnel Under the World</dc:title>
+        <dc:creator opf:file-as="Pohl, Frederik" opf:role="aut">Frederik Pohl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1955-01-01T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/31979</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-19T11:17:04.573928+00:00"/>
+        <meta name="calibre:title_sort" content="Tunnel Under the World, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Tunnel Under the World, The - Frederik Pohl.jpg"/>
+    </guide>
+</package>
