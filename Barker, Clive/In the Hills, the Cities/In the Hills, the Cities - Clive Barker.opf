@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be9e8f2d-c2b8-4db0-b2ca-1bd44075c5e7</dc:identifier>
+        <dc:title>In the Hills, the Cities</dc:title>
+        <dc:creator opf:file-as="Barker, Clive" opf:role="aut">Clive Barker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;span id="freeText10315156584178875304"&gt;The Books of Blood 
+combine the ordinary with the extraordinary while radiating the 
+eroticism that has become Barker's signature. Weaving tales of the 
+everyday world transformed into an unrecognizable place, where reason no
+ longer exists and logic ceases to explain the workings of the universe,
+ Clive Barker provides the stuff of nightmares in packages too 
+tantalizing to resist. Never one to shy away from the unimaginable or 
+the unspeakable, Clive Barker breathes life into our deepest, darkest 
+nightmares, creating visions that are at once terrifying, tender, and 
+witty. The Books of Blood confirm what horror fans everywhere have known
+ for a long time: We will be hearing from Clive Barker for many years to
+ come.&lt;br&gt;&lt;br&gt;This first volume contains the short stories : "The Book 
+of Blood," "The Midnight Meat Train," "The Yattering and Jack," "Sex, 
+Death, and Starshine," and "In the Hills, the Cities," as well as the 
+original introduction to volumes one, two, and three by Ramsey Campbell,
+ and a new introduction by author David Niall Wilson.&lt;/span&gt;</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <meta name="calibre:series" content="Books of Blood"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2025-12-20T10:36:58.272000+00:00"/>
+        <meta name="calibre:title_sort" content="In the Hills, the Cities"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="In the Hills, the Cities - Clive Barker.jpg"/>
+    </guide>
+</package>
