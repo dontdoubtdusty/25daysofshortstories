@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc8d56c3-32c1-4fee-8d33-69ba248d6c98</dc:identifier>
+        <dc:title>The Pit and the Pendulum</dc:title>
+        <dc:creator opf:file-as="Poe, Edgar Allan" opf:role="aut">Edgar Allan Poe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1842-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The story takes place during the Spanish Inquisition. At the beginning of the story an unnamed narrator is brought to trial before various sinister judges. Poe provides no explanation of why he is there or for what he has been arrested. Before him are seven tall white candles on a table, and, as they melt, his hopes of survival also diminish. He is condemned to death and finds himself in a pitch black compartment. At first the prisoner thinks that he is locked in a tomb, but he discovers that he is in a cell. He decides to explore the cell by placing a hem from his robe against a wall so he can count the paces around the room; however, he faints before being able to measure the whole perimeter... (Excerpt from Wikipedia)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Otbebookpublishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783956760945</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jZZdEQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-21T22:02:12.764211+00:00"/>
+        <meta name="calibre:title_sort" content="Pit and the Pendulum, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Pit and the Pendulum, The - Edgar Allan Poe.jpg"/>
+    </guide>
+</package>
