@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8402214-6871-4e21-9785-131df52e45d1</dc:identifier>
+        <dc:title>The Husband Stitch</dc:title>
+        <dc:creator opf:file-as="Machado, Carmen Maria" opf:role="aut">Carmen Maria Machado</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-03T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Finalist for the National Book Award for Fiction“[These stories] vibrate with originality, queerness, sensuality and the strange.”—Roxane Gay“In these formally brilliant and emotionally charged tales, Machado gives literal shape to women’s memories and hunger and desire. I couldn’t put it down.”—Karen RussellIn Her Body and Other Parties, Carmen Maria Machado blithely demolishes the arbitrary borders between psychological realism and science fiction, comedy and horror, fantasy and fabulism. While her work has earned her comparisons to Karen Russell and Kelly Link, she has a voice that is all her own. In this electric and provocative debut, Machado bends genre to shape startling narratives that map the realities of women’s lives and the violence visited upon their bodies. &lt;/p&gt;
+&lt;p&gt;A wife refuses her husband’s entreaties to remove the green ribbon from around her neck. A woman recounts her sexual encounters as a plague slowly consumes humanity. A salesclerk in a mall makes a horrifying discovery within the seams of the store’s prom dresses. One woman’s surgery-induced weight loss results in an unwanted houseguest. And in the bravura novella “Especially Heinous,” Machado reimagines every episode of Law &amp;amp; Order: Special Victims Unit, a show we naïvely assumed had shown it all, generating a phantasmagoric police procedural full of doppelgängers, ghosts, and girls with bells for eyes. &lt;/p&gt;
+&lt;p&gt;Earthy and otherworldly, antic and sexy, queer and caustic, comic and deadly serious, Her Body and Other Parties swings from horrific violence to the most exquisite sentiment. In their explosive originality, these stories enlarge the possibilities of contemporary fiction.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Graywolf Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781555977887</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">irA0DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>Gothic</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Lgbtq+</dc:subject>
+        <dc:subject>Bisexual</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-18T15:15:58.894010+00:00"/>
+        <meta name="calibre:title_sort" content="Husband Stitch, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Husband Stitch, The - Carmen Maria Machado.jpg"/>
+    </guide>
+</package>
