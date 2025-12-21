@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed811e0b-a7a6-4c88-8168-99c3ea527bcc</dc:identifier>
+        <dc:title>The Ones Who Walk Away From Omelas: A Story</dc:title>
+        <dc:creator opf:file-as="Guin, Ursula K. le" opf:role="aut">Ursula K. le Guin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1973-10-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;“Ursula Le Guin is more than just a writer of adult fantasy and science fiction . . . she is a philosopher; an explorer in the landscapes of the mind.” – Cincinnati EnquirerThe recipient of numerous literary prizes, including the National Book Award, the Kafka Award, and the Pushcart Prize, Ursula K. Le Guin is renowned for her spare, elegant prose, rich characterization, and diverse worlds. "The Ones Who Walk Away from Omelas" is a short story originally published in the collection The Wind's Twelve Quarters.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062470973</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">fZayDQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Collections &amp; Anthologies</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Alternative History</dc:subject>
+        <dc:subject>Women</dc:subject>
+        <dc:subject>Feminist</dc:subject>
+        <dc:subject>Dystopian</dc:subject>
+        <dc:subject>Lgbtq+</dc:subject>
+        <dc:subject>Bisexual</dc:subject>
+        <dc:subject>Animals</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Women Authors</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Dragons &amp; Mythical Creatures</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-13T21:40:56.539526+00:00"/>
+        <meta name="calibre:title_sort" content="Ones Who Walk Away From Omelas: A Story, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Ones Who Walk Away From Omelas_ A Story, The - Ursula K. le Guin.jpg"/>
+    </guide>
+</package>
