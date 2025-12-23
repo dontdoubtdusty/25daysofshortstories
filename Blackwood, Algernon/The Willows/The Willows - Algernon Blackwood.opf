@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a242c31-2a4a-4289-80de-e82d058dc02e</dc:identifier>
+        <dc:title>The Willows</dc:title>
+        <dc:creator opf:file-as="Blackwood, Algernon" opf:role="aut">Algernon Blackwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1907-01-02T00:00:00+00:00</dc:date>
+        <dc:publisher>https://www.aliceandbooks.com</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Horror tales</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-22T09:57:17.683133+00:00"/>
+        <meta name="calibre:title_sort" content="The Willows"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="The Willows - Algernon Blackwood.jpg"/>
+    </guide>
+</package>
