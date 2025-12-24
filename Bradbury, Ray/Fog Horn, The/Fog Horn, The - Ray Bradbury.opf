@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e0728cd-27c5-41ac-8cda-a438f45c4a80</dc:identifier>
+        <dc:title>The Fog Horn</dc:title>
+        <dc:creator opf:file-as="Bradbury, Ray" opf:role="aut">Ray Bradbury</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1951-12-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Creative Education's short story collections are ideal introductions to some of the world's best-known authors. the short, timeless classics of Jack London, Rudyard Kipling, Ray Bradbury, and others are celebrated in these handsome volumes.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Creative Education</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780886821074</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">qAZUwBiP_JkC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2025-12-24T11:22:34.388840+00:00"/>
+        <meta name="calibre:title_sort" content="Fog Horn, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Fog Horn, The - Ray Bradbury.jpg"/>
+    </guide>
+</package>
